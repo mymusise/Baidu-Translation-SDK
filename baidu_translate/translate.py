@@ -60,5 +60,5 @@ class TranslateClient(Client):
         return self.translate(query, 'zh', 'en')
 
     def en2zh(self, query):
-        return self.translate(query, 'zh', 'en')
+        return self.translate(query, 'en', 'zh')
 
