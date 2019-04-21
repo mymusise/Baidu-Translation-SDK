@@ -29,6 +29,8 @@ Example:
 }
 ```
 
+[How to get the APPID and SECRETKEY](https://api.fanyi.baidu.com/api/trans/product/index)
+
 
 ### 3. Example
 
