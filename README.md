@@ -5,6 +5,10 @@ A unofficial SDK for Baidu Translation. 一个非官方的百度翻译SDK.
 
 ## Quick start
 
+### 0.Requirements
+
+- python 3.5+
+
 ### 1.Installation
 
 ```
